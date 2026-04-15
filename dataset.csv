@@ -1,0 +1,58 @@
+title,abstract,authors,n_citation,references,venue,year
+Quantum Cryptography for Secure Communication,"Quantum key distribution ensures secure communication using quantum mechanics.","Alice Smith; Bob Johnson",120,"ref1;ref2","IEEE Security",2022
+Advances in Quantum Computing Algorithms,"New quantum algorithms improve cryptography and optimization tasks.","John Doe; Jane Roe",95,"ref3;ref4","ACM Computing Surveys",2023
+Quantum Machine Learning,"Combining quantum computing with ML for faster computations.","David Lee; Sara Kim",110,"ref5;ref6","NeurIPS",2023
+Post-Quantum Cryptography,"Designing cryptographic systems resistant to quantum attacks.","Ravi Kumar; Neha Sharma",85,"ref7;ref8","IEEE Security",2021
+Quantum Error Correction Techniques,"Methods to correct errors in quantum computations.","Akash Verma; Priya Shah",75,"ref9;ref10","Nature Physics",2020
+Deep Learning in Computer Vision,"CNNs used for image classification and detection.","Amit Sharma; Neha Gupta",200,"ref11;ref12","CVPR",2020
+Transformers in NLP,"Transformer architecture revolutionizing NLP tasks.","Rohit Verma; Sneha Kulkarni",220,"ref13;ref14","ACL",2022
+BERT for Language Understanding,"Pretrained transformers improve text understanding.","Dev Patel; Arjun Mehta",180,"ref15;ref16","NAACL",2021
+GPT Models in Text Generation,"Large language models generate human-like text.","Kiran Joshi; Meera Desai",250,"ref17;ref18","EMNLP",2023
+AI in Healthcare Diagnostics,"Machine learning improves disease detection.","Rahul Mehta; Priya Singh",150,"ref19;ref20","Nature Medicine",2021
+Reinforcement Learning in Robotics,"Robots learn actions through reward systems.","Vikas Nair; Pooja Desai",130,"ref21;ref22","ICRA",2020
+AI-based Cybersecurity Systems,"AI detects threats and anomalies in networks.","Ankit Agarwal; Meera Joshi",140,"ref23;ref24","IEEE Security",2021
+Blockchain in Finance,"Decentralized finance systems using blockchain.","Sanjay Patel; Kavita Rao",80,"ref25;ref26","IEEE Finance",2019
+Big Data Analytics with Hadoop,"Processing large datasets efficiently.","Arjun Reddy; Kavya Nair",90,"ref27;ref28","IEEE BigData",2018
+Edge Computing for IoT,"Processing data near devices improves performance.","Manish Gupta; Riya Kapoor",70,"ref29;ref30","IoT Journal",2022
+Federated Learning Systems,"Training models without sharing raw data.","Nikhil Jain; Aarti Singh",95,"ref31;ref32","ICML",2022
+Explainable AI Techniques,"Improving interpretability of ML models.","Shreya Kulkarni; Aman Verma",85,"ref33;ref34","AAAI",2021
+Graph Neural Networks,"Learning on graph structured data.","Sahil Khan; Ritu Sharma",100,"ref35;ref36","NeurIPS",2022
+Self-Supervised Learning,"Reducing dependency on labeled data.","Ananya Gupta; Rohan Das",105,"ref37;ref38","ICLR",2023
+Autonomous Driving Systems,"AI enables self-driving vehicles.","Harsh Patel; Divya Shah",160,"ref39;ref40","CVPR",2021
+Computer Vision for Surveillance,"Vision systems used in security monitoring.","Deepak Yadav; Nisha Singh",75,"ref41;ref42","ICCV",2020
+Speech Recognition Systems,"Converting speech into text using deep learning.","Varun Mehta; Aditi Rao",115,"ref43;ref44","ICASSP",2022
+Recommendation Systems using AI,"Personalized recommendations using ML.","Kunal Jain; Sneha Kapoor",140,"ref45;ref46","RecSys",2021
+Data Mining Techniques,"Extracting patterns from large datasets.","Rajesh Kumar; Sunita Devi",60,"ref47;ref48","KDD",2019
+Time Series Forecasting,"Predicting trends using historical data.","Anil Verma; Pooja Sharma",90,"ref49;ref50","ICDM",2020
+Natural Language Generation,"Generating human-like text responses.","Riya Shah; Aman Mehta",120,"ref51;ref52","ACL",2023
+Image Segmentation Techniques,"Segmenting images using deep learning.","Karan Singh; Neha Patel",85,"ref53;ref54","CVPR",2021
+Anomaly Detection in Networks,"Detecting unusual behavior in systems.","Rohit Sharma; Kavita Jain",110,"ref55;ref56","IEEE Security",2022
+Cloud Computing Architecture,"Scalable computing using cloud platforms.","Aman Gupta; Ritu Verma",70,"ref57;ref58","IEEE Cloud",2019
+Serverless Computing Models,"Event-driven cloud computing architecture.","Kiran Patel; Pooja Shah",65,"ref59;ref60","ACM Cloud",2021
+IoT Security Challenges,"Securing IoT devices and networks.","Nikhil Shah; Meera Patel",95,"ref61;ref62","IoT Journal",2022
+Digital Twin Technology,"Simulating real-world systems digitally.","Arjun Shah; Neha Mehta",75,"ref63;ref64","IEEE Systems",2023
+Augmented Reality Applications,"Enhancing real-world with digital overlays.","Vivek Nair; Sneha Iyer",85,"ref65;ref66","ISMAR",2021
+Virtual Reality Systems,"Immersive virtual environments.","Rahul Das; Pooja Nair",90,"ref67;ref68","IEEE VR",2020
+Human-Computer Interaction,"Improving user interfaces and UX.","Sanjay Mehta; Kavya Singh",70,"ref69;ref70","CHI",2019
+Bioinformatics using AI,"Analyzing biological data with ML.","Anita Sharma; Raj Patel",120,"ref71;ref72","Bioinformatics",2022
+Drug Discovery using AI,"AI accelerates drug development.","Riya Jain; Aman Gupta",135,"ref73;ref74","Nature",2023
+Smart Cities using IoT,"Urban management using IoT systems.","Kunal Mehta; Priya Kapoor",95,"ref75;ref76","IEEE SmartCity",2021
+Energy Optimization using AI,"Reducing energy consumption with ML.","Anil Gupta; Sneha Shah",80,"ref77;ref78","Energy AI",2022
+Climate Prediction Models,"Forecasting climate changes.","Rahul Nair; Meera Iyer",110,"ref79;ref80","Nature Climate",2023
+Financial Forecasting using ML,"Predicting stock market trends.","Rohit Jain; Kavita Shah",140,"ref81;ref82","Finance AI",2021
+Fraud Detection Systems,"Detecting fraud in transactions.","Aman Verma; Pooja Jain",150,"ref83;ref84","IEEE Security",2022
+Customer Segmentation using AI,"Grouping users based on behavior.","Neha Kapoor; Kunal Shah",100,"ref85;ref86","Marketing AI",2020
+Sentiment Analysis using NLP,"Analyzing opinions from text.","Aditi Mehta; Rohan Jain",130,"ref87;ref88","ACL",2021
+Chatbots using AI,"Automated conversational agents.","Sahil Gupta; Riya Kapoor",115,"ref89;ref90","EMNLP",2022
+Knowledge Graphs in AI,"Structured knowledge representation.","Rohit Das; Priya Mehta",90,"ref91;ref92","KDD",2023
+Multi-modal AI Systems,"Combining text, image, and audio.","Karan Verma; Sneha Patel",125,"ref93;ref94","NeurIPS",2023
+Explainable Deep Learning,"Understanding deep learning decisions.","Ananya Singh; Arjun Jain",85,"ref95;ref96","AAAI",2022
+AI Ethics and Bias,"Ensuring fairness in AI systems.","Meera Kapoor; Aman Shah",75,"ref97;ref98","AI Ethics",2021
+Low Resource NLP,"Handling languages with limited data.","Ritu Sharma; Kunal Jain",80,"ref99;ref100","ACL",2022
+Zero-shot Learning,"Learning without labeled examples.","Dev Shah; Neha Verma",95,"ref101;ref102","ICLR",2023
+Few-shot Learning,"Learning from small datasets.","Arjun Patel; Sneha Iyer",105,"ref103;ref104","NeurIPS",2022
+Meta Learning Models,"Learning how to learn.","Rahul Jain; Pooja Verma",110,"ref105;ref106","ICML",2023
+Distributed Machine Learning,"Scaling ML across systems.","Aman Nair; Kavita Mehta",90,"ref107;ref108","IEEE ML",2021
+Parallel Computing Systems,"Improving computation speed.","Rohit Mehta; Neha Shah",70,"ref109;ref110","HPC Journal",2020
+High Performance Computing,"Advanced computing architectures.","Kunal Patel; Aditi Shah",85,"ref111;ref112","IEEE HPC",2022
+GPU Acceleration in ML,"Using GPUs for faster training.","Aman Gupta; Riya Jain",120,"ref113;ref114","CUDA Conf",2023
